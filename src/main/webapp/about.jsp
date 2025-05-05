@@ -16,7 +16,6 @@
     <p class="mt-2 text-lg">Who we are and what we do</p>
   </header>
 
-  <!-- Main Content -->
   <main class="max-w-5xl mx-auto px-6 py-12 space-y-8">
     <section>
       <h2 class="text-2xl font-semibold mb-2">Our Mission</h2>
@@ -55,7 +54,6 @@
     </section>
   </main>
 
-  <!-- Footer -->
  
 <%@ include file="footer.jsp" %>
 

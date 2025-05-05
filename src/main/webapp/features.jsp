@@ -11,13 +11,12 @@
 <body class="bg-gray-50 text-gray-800">
 
 <%@ include file="header.jsp" %>
-  <!-- Header -->
+
   <header class="bg-blue-600 text-white py-12 text-center">
     <h1 class="text-4xl font-bold">Features of EmpConnect</h1>
     <p class="mt-3 text-lg max-w-2xl mx-auto">EmpConnect is built to simplify your employee management process. Explore the powerful features that keep your workforce organized and productive.</p>
   </header>
 
-  <!-- Features Grid -->
   <section class="max-w-7xl mx-auto py-16 px-6">
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-10">
 
@@ -60,7 +59,6 @@
     </div>
   </section>
 
-  <!-- Why Choose Section -->
   <section class="bg-blue-50 py-16 px-6">
     <div class="max-w-5xl mx-auto text-center">
       <h2 class="text-3xl font-bold mb-6 text-blue-800">Why Choose EmpConnect?</h2>
@@ -81,7 +79,6 @@
     </div>
   </section>
 
-  <!-- Technologies Used -->
   <section class="bg-white py-12 px-6 text-center">
     <h2 class="text-2xl font-bold mb-6">Technologies Used</h2>
     <div class="flex justify-center flex-wrap gap-10 text-blue-600 text-3xl">
@@ -94,7 +91,6 @@
     </div>
   </section>
 
-  <!-- Footer -->
  <%@ include file="footer.jsp" %>
 </body>
 </html>

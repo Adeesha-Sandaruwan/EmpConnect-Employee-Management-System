@@ -18,7 +18,6 @@
     <p class="mt-2 text-lg">We're here to help you with EmpConnect</p>
   </header>
 
-  <!-- Contact Section -->
   <main class="max-w-5xl mx-auto px-4 py-12 grid md:grid-cols-2 gap-8 items-start bg-white rounded shadow">
 
     <!-- Contact Form -->
@@ -40,14 +39,12 @@
       </div>
     </div>
 
-    <!-- Contact Image -->
     <div class="rounded overflow-hidden">
       <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="Contact Illustration" class="w-full h-auto object-contain" />
     </div>
 
   </main>
 
-  <!-- Footer -->
  <%@ include file="footer.jsp" %>
  
 

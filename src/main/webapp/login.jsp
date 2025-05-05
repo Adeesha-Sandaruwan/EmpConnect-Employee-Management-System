@@ -12,7 +12,6 @@
   <div class="min-h-screen flex items-center justify-center px-4">
     <div class="bg-white shadow-md rounded-lg overflow-hidden max-w-3xl w-full grid md:grid-cols-2">
 
-      <!-- Image -->
       <div class="hidden md:block">
         <img src="https://cdn-icons-png.flaticon.com/512/747/747545.png" alt="Login Illustration" class="w-full h-full object-cover" />
       </div>
@@ -26,7 +25,6 @@
           <button type="submit" class="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700">Login</button>
         </form>
 
-        <!-- Register Link -->
         <p class="text-sm text-center mt-4 text-gray-600">
           Don’t have an account? 
           <a href="register.jsp" class="text-blue-600 hover:underline">Register here</a>

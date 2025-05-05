@@ -35,6 +35,7 @@
 </head>
 <body>
 
+  <!-- Slider images -->
 <section
   x-data="{ activeSlide: 0, slides: [
   { image: 'images/1.jpg', title: 'Welcome to EmpConnect', desc: 'Manage employees and departments easily.' },
@@ -81,11 +82,7 @@
   </div>
 </section>
 
-<!-- Alpine.js -->
 <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
-
-</body>
-</html>
 
 
 <section class="py-12 px-4 max-w-7xl mx-auto text-center">
@@ -146,7 +143,6 @@
 
 <%@ include file="footer.jsp" %>
 
-<!-- Load Alpine.js at the end for proper DOM initialization -->
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
 </body>
