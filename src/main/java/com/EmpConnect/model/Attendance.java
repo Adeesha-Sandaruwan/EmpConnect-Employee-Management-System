@@ -6,7 +6,7 @@ public class Attendance {
     private String inTime;
     private String outTime;
     private double hours;
-
+//class for attendance table
     // Constructor for creating a new attendance record
     public Attendance(String name, String inTime, String outTime, double hours) {
         this.name = name;
