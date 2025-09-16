@@ -1,6 +1,6 @@
 package com.EmpConnect.model;
 
-public class Employee {
+public class Employee {//db tables
     private int id;
     private String fullname;
     private String username;
@@ -69,7 +69,7 @@ public class Employee {
 	}
 	public void setPassword(String password) {
 		this.password = password;
-	}
+	}//all the setters and getters
 
 	
     // Constructors
